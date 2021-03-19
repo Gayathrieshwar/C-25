@@ -1,2 +1,2 @@
-# C-25
-C25-Inheritance -Stage 2 of Angry Birds
+# angryBirdsStage2
+Angry Birds stage 2 with Class Inheritance and Images
